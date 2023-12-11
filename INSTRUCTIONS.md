@@ -13,7 +13,7 @@ TBA.
 
 2x 1000mAh batteries connected in parallel > TP4056 Charging Module > Step Up Converter (Set to 5V Out) > Switch > Copper Contacts (Inserted through the lid)
 
-![](images/puckguts1.jpg)
+![](images/puckguts1.JPG)
 
 Diagram TBA.
 
