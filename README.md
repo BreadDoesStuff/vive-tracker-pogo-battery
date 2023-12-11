@@ -1,5 +1,5 @@
 # Vive Tracker Pogo Pin Battery Bank
-![](images/puck1.jpg) ![](images/puck20strap.jpg)
+![](images/puck1.JPG) ![](images/puck20strap.JPG)
 
 Vive Tracker Battery bank that charges the tracker through pogo pins.
 
@@ -7,6 +7,9 @@ Adds 10 additional hours of usage for the 2.0 Tracker.
 
 Adds 20 additional hours of usage for the 3.0 Tracker.
 
+## [CHANGELOG](CHANGELOG.md) 
+
+## [INSTRUCTIONS](INSTRUCTIONS.md)
 
 # DISCLAIMER
 I am not responsible for any damage, fires, or injuries that may occur during assembly. Please be careful when handling Lithium Polymer batteries.
