@@ -3,6 +3,9 @@ Here's how you can build your own Vive Tracker Battery Bank.
 
 ## Printing
 
+Case
+Lid
+
 Print with 5-10% Infill. No supports. PLA is fine.
 
 ## Case Prep
