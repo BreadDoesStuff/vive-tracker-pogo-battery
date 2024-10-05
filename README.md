@@ -61,7 +61,7 @@ https://www.amazon.com/gp/product/B07TC16SZ7/
 
 Bare Copper Wire (16 AWG)
 
-## To-Do List
-- [x] Make a To-Do List
-- [ ] Add Instructions (lmao)
-- [ ] Add Power LED Indicator(?)
+## V2 Roadmap
+- Smaller, compact, and simplified design.
+- Using one usb battery charging module that outputs 5V (No need for a boost converter) (https://www.aliexpress.us/item/3256805822783483.html)
+- Create wiring diagram
