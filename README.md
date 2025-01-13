@@ -1,4 +1,4 @@
-# Vive Tracker Pogo Pin Battery Puck
+# Vive Tracker Pogo Pin Battery Puck - V2.0
 
 <img src="images\alltrackers.jpg" width="400" height=auto>
 
