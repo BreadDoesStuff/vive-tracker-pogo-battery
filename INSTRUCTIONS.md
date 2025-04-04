@@ -68,7 +68,7 @@ Insert a small U-shaped length of copper wire into the top lid holes to be used 
 
 Vive Tracker Pinout Reference
 
-<img src="images\vive-tracker-pins.png" width="500" height=auto>
+<img src="images\pogo-pins.png" height="500" width=auto>
 
 ## Securing the Components
 
